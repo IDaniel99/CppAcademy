@@ -21,6 +21,10 @@
 | Monday 18.03.2024 | Generative AI + AOSP Documentation | ------------- |
 | Tuesday 19.03.2024 | AOSP Documentation | Go through the android source code using android code search |
 | Wednesday 20.03.2024 | C++ Design Patterns | Visitor design pattern |
+| Wednesday 27.03.2024 | Digital Academy Generative AI | Github CoPilot course + Gen AI for leaders course |
+| Thursday 28.03.2024 | Digital Academy GEnerative AI + Udemy autosar course | Gen AI for leaders course + start AUTOSAR udemy course |
+
+
 
 
 
