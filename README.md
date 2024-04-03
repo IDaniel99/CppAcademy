@@ -23,6 +23,10 @@
 | Wednesday 20.03.2024 | C++ Design Patterns | Visitor design pattern |
 | Wednesday 27.03.2024 | Digital Academy Generative AI | Github CoPilot course + Gen AI for leaders course |
 | Thursday 28.03.2024 | Digital Academy GEnerative AI + Udemy autosar course | Gen AI for leaders course + start AUTOSAR udemy course |
+| Friday 29.03.2024 | Udemy Autosar course | ------------------- |
+| Monday 01.04.2024 | C++ documentation | Effective modern c++ book + udemy course |
+| Tuesday 02.04.2024 | C++ documentation | Effective modern c++ book + udemy course |
+
 
 
 
