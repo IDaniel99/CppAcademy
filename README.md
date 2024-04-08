@@ -26,6 +26,10 @@
 | Friday 29.03.2024 | Udemy Autosar course | ------------------- |
 | Monday 01.04.2024 | C++ documentation | Effective modern c++ book + udemy course |
 | Tuesday 02.04.2024 | C++ documentation | Effective modern c++ book + udemy course |
+| Wednesday 03.04.2024 | C++ documentation | ---------- |
+| Thursday 04.04.2024 | C++ documentation | ----------- |
+| Friday 05.04.2024 | C++ documentation | ---------|
+
 
 
 
