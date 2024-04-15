@@ -31,6 +31,10 @@
 | Friday 05.04.2024 | C++ documentation | ---------|
 | Monday 08.04.2024 | C++ documentation | ---------|
 | Tuesday 09.04.2024 | C++ documentation | ---------|
+| Wednesday  10.04.2024 | C++ documentation | ---------|
+| Thursday 11.04.2024 | C++ documentation | ---------|
+| Friday 12.04.2024 | C++ documentation | ---------|
+
 
 
 
