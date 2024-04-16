@@ -34,6 +34,8 @@
 | Wednesday  10.04.2024 | C++ documentation | ---------|
 | Thursday 11.04.2024 | C++ documentation | ---------|
 | Friday 12.04.2024 | C++ documentation | ---------|
+| Monday 15.04.2024 | AOSP Udemy course | ---------|
+| Tuesday 16.04.2024 | AOSP Udemy course | ---------|
 
 
 
